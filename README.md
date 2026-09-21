@@ -19,7 +19,7 @@
  - *-squashfs-sysupgrade.bin
 
 
-## Credits
+## Credits(旧刷机方法)
 - msm8916的包刷机 
 - web在线升级没变化使用flash.zip线刷一下最新固件即可
 -
