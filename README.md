@@ -1,3 +1,4 @@
+## 刷机推荐使用刷机工具进行操作
 
 | 项目 | 信息 |
 |------|------|
@@ -10,13 +11,11 @@
 | softethervpn-luci | 下载安装https://github.com/superzjg/luci-app-softethervpn |
 | softethervpn | 下载安装https://github.com/SoftEtherVPN/SoftEtherVPN_Stable |
 
-##刷机推荐使用刷机工具进行操作
-
-##按需下载对应的工具和刷机包 执行刷机脚本即可（先安装9008驱动 然后 设备直接插电脑显示ADB设备后等10秒左右即可）
+## 按需下载对应的工具和刷机包 执行刷机脚本即可（先安装9008驱动 然后 设备直接插电脑显示ADB设备后等10秒左右即可）
  - *-squashfs-system.img改名为system.img
  - *-squashfs-boot.img改名为boot.img
 
-##系统更新包
+## 系统更新包
  - *-squashfs-sysupgrade.bin
 
 
