@@ -1,7 +1,26 @@
 
+| 项目 | 信息 |
+|------|------|
+| 管理地址 | 192.168.10.1 root 无密码 |
+| | |
+| tailscale | tailscale在源安装 面板在https://github.com/Tokisaki-Galaxy/luci-app-tailscale-community/releases |
+| smartdns | 若无ui或无法启动，可在软件包卸载后进ssh安装 /etc/smartdns-ipk 下的版本 |
+| Mihomo | 下载安装https://github.com/nikkinikki-org/OpenWrt-nikki/releases |
+| softethervpn-控制台 | 下载安装https://github.com/SoftEtherVPN/SoftEtherVPN |
+| softethervpn-luci | 下载安装https://github.com/superzjg/luci-app-softethervpn |
+| softethervpn | 下载安装https://github.com/SoftEtherVPN/SoftEtherVPN_Stable |
+
+##刷机推荐使用刷机工具进行操作
+
+##按需下载对应的工具和刷机包 执行刷机脚本即可（先安装9008驱动 然后 设备直接插电脑显示ADB设备后等10秒左右即可）
+ - *-squashfs-system.img改名为system.img
+ - *-squashfs-boot.img改名为boot.img
+
+##系统更新包
+ - *-squashfs-sysupgrade.bin
+
 
 ## Credits
-
 - msm8916的包刷机 
 - web在线升级没变化使用flash.zip线刷一下最新固件即可
 -
